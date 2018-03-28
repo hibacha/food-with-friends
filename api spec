@@ -1,0 +1,16 @@
+Api abstraction:
+  An api to get the food that only your friends like from the current location, and make recommendations base on rating and likes. 
+  If a group of friends get together, select food together from a list of options, and calculate for price and tips. Then can 
+  create bills that send to venmo App or payment apps. 
+
+Location protocol:
+  Get current location and find the nearest restaurants
+ 
+Friend portocol:
+  Get friends list and food they like
+  
+Food Menu Api: 
+  Get a list of food from the specific restaurant
+  
+
+  
